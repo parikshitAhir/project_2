@@ -11,7 +11,7 @@ const Home = () => {
           <div className="main_1">
             <div className="home_h1">
               <h1>
-                Grow your business with
+                Grow your marketing with
                 <strong className="home_co"> Parikshit Ahir</strong>
               </h1>
             </div>
